@@ -1,5 +1,5 @@
 name = "CloudRegistry"
-uuid = "b85086e1-b5e0-44d9-970d-7da504d66b47"
+uuid = "e0a6cdac-8035-45e4-94bc-3e3ed992f74d"
 repo = "git@github.com:cloudmrhub-com/CloudRegistry.git"
 description = "CloudMR Julia Registry"
 
