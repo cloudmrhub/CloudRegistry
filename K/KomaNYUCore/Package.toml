@@ -1,0 +1,4 @@
+name = "KomaNYUCore"
+uuid = "a4d5918d-f7c8-4203-8706-5b9a82e83504"
+repo = "git@github.com:cloudmrhub-com/KomaNYU.jl.git"
+subdir = "KomaNYUCore"
