@@ -1,4 +1,4 @@
 name = "KomaNYUPlots"
 uuid = "9cffba9e-a160-43d8-9293-b8def8c63cbd"
-repo = "git@github.com:cloudmrhub/KomaNYU.jl.git"
+repo = "https://github.com/cloudmrhub/KomaNYU.jl.git"
 subdir = "KomaNYUPlots"

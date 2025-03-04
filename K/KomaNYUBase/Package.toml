@@ -1,4 +1,4 @@
 name = "KomaNYUBase"
 uuid = "558670ff-cef0-4d9f-b15b-bd345d36ea0a"
-repo = "git@github.com:cloudmrhub/KomaNYU.jl.git"
+repo = "https://github.com/cloudmrhub/KomaNYU.jl.git"
 subdir = "KomaNYUBase"
