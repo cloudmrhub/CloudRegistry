@@ -11,7 +11,12 @@ MRIReco = "0.6 - 0.9"
 Reexport = "1"
 julia = "1.9.0 - 1"
 
+["0.9.1"]
+NIfTI = "0.4.1 - 0.4"
+
 ["0.9.1 - 0"]
 Interpolations = "0.15.1 - 0.15"
 KomaNYUBase = "0.9"
-NIfTI = "0.4.1 - 0.4"
+
+["0.9.2 - 0"]
+NIfTI = "0.6"
