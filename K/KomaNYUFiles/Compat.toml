@@ -8,3 +8,9 @@ MRIFiles = "0.1 - 0.3"
 Reexport = "1"
 Scanf = "0.5"
 julia = "1.9.0 - 1"
+
+["0.9.1 - 0"]
+Interpolations = "0.15.1 - 0.15"
+JSON = "0.21.4 - 0.21"
+KomaNYUPlots = "0.9"
+Plots = "1.40.13 - 1"
